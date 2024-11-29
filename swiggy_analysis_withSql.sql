@@ -1,4 +1,4 @@
--- Here are some questions 
+-- Here are some questions related to case study of swiggy
 
 -- 1. find users who never ordered
 -- 2. Average Price /dish 
